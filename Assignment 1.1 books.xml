@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <catelogue category = "technical">
+        <book>
+            <title>Python for Data Analysis</title>
+            <isbn>978-1-491-95766-0</isbn>
+            <author>Wes McKinney</author>
+        </book>
+        <book>
+            <title>Information Architecture: For the Web and Beyond</title>
+            <isbn>978-1491911686</isbn>
+            <author>Louis Rosenfield</author>
+        </book>
+    </catelogue>
+    <catelogue category = "cookery">
+        <book>
+            <title>My Favourite Recipes for Family and Friends</title>
+            <isbn>978-1849906630</isbn>
+            <author>Mary Berry</author>
+            </book>
+        <book>
+            <title>7 Ways: Easy Ideas for Every Day of the Week </title>
+            <isbn>978-0241431153</isbn>
+            <author>Jamie Oliver</author>
+            </book>
+    </catelogue>
+</library>
